@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3 / 2019-01-03
+
+- Expand supported Ruby versions to include 2.6 ([cef61db](https://github.com/jgarber623/token-endpoint-ruby/commit/cef61db)).
+
 ## 0.1.2 / 2018-11-11
 
 - Freeze mutable objects assigned to constants ([3c9488f](https://github.com/jgarber623/token-endpoint-ruby/commit/3c9488f)).
