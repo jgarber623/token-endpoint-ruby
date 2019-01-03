@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'token_endpoint/version'
 
 Gem::Specification.new do |spec|
-  spec.required_ruby_version = ['>= 2.4', '< 2.6']
+  spec.required_ruby_version = ['>= 2.4', '< 2.7']
 
   spec.name          = 'token-endpoint'
   spec.version       = TokenEndpoint::VERSION
