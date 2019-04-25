@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4 / 2019-04-24
+
+- Add deprecation notice.
+
 ## 0.1.3 / 2019-01-03
 
 - Expand supported Ruby versions to include 2.6 ([cef61db](https://github.com/jgarber623/token-endpoint-ruby/commit/cef61db)).

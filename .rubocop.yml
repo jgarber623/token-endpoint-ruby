@@ -4,6 +4,7 @@ require:
 
 Metrics/BlockLength:
   Exclude:
+    - token-endpoint.gemspec
     - spec/**/*.rb
 
 Metrics/LineLength:
